@@ -9,14 +9,12 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🎮 **[Jogo em Python com Pygame](link-do-repositorio)**  
+- 🎮 Jogo em Python com Pygame 
   Jogo interativo desenvolvido em grupo, aplicando conceitos de **POO e lógica de jogos**.  
 
-- 🤖 **[Aplicação Web de Geração de Imagens com IA](link-do-repositorio)**  
-  Projeto em grupo utilizando **integração de API, MongoDB e front-end** para interação com usuários.  
-
-- 📑 **[Automatização do Excel com Python](link-do-repositorio)**  
-  Scripts de automação com **OpenPyXL**, facilitando manipulação de planilhas.  
+- 🤖 Aplicação Web de Geração de Imagens com IA
+  Projeto em grupo utilizando **integração de API, MongoDB e front-end** para interação com usuários.
+  O projeto contou com um parceiro, que buscava soluções para uma problemática atual.   
 
 ---
 
@@ -31,7 +29,7 @@
 
 - **Ferramentas & Frameworks**:  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Pygame](https://img.shields.io/badge/Pygame-006600?style=for-the-badge&logo=python&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-006600?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-FFD43B?style=for-the-badge&logo=python&logoColor=black)  
 
 - **Web & Design**:  
@@ -45,14 +43,11 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 🎓 Cursos & Certificações
 
-<div align="center">
-  <a href="https://github.com/Lucas-QdD">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-QdD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-QdD&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+- 📊 **Introdução à Ciência de Dados** – IE University  
+- 📑 **Automatizando o Excel com Python e OpenPyXL** – IMT  
+- 🐍 **Introdução ao Python** – Santander  
 
 ---
 
