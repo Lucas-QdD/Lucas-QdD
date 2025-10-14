@@ -14,7 +14,8 @@
 
 - 🤖 Aplicação Web de Geração de Imagens com IA
   Projeto em grupo utilizando **integração de API, MongoDB e front-end** para interação com usuários.
-  O projeto contou com um parceiro, que buscava soluções para uma problemática atual.   
+  O projeto contou com um parceiro, que buscava soluções para uma problemática atual.
+  https://github.com/0SarahSperduti/PoliArtGen
 
 ---
 
