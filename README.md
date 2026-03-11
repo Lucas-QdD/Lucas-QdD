@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Project | Projeto em Destaque
 
-**[Crypto Sentinel](https://github.com/seu-usuario/Crypto_Sentinel)**
+**[Crypto Sentinel](https://github.com/Lucas-QdD/Crypto_Sentinel)**
 - **[EN]** End-to-end Data Pipeline using Medallion Architecture to analyze BTC, ETH, and SOL trends with automated orchestration.
   
 - **[PT]** Pipeline de Dados ponta a ponta usando Arquitetura de Medalhão para analisar tendências de BTC, ETH e SOL com orquestração automatizada.
