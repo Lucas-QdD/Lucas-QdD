@@ -1,9 +1,12 @@
 # Hi, I'm Lucas! | Oi, eu sou o Lucas! 👋
 
 🎓 **[EN]** Computer Science Student at [Instituto Mauá de Tecnologia](https://maua.br) (2025 - 2028).  
-    **[PT]** Estudante de Ciência da Computação no [Instituto Mauá de Tecnologia](https://maua.br) (2025 - 2028).
+
+   **[PT]** Estudante de Ciência da Computação no [Instituto Mauá de Tecnologia](https://maua.br) (2025 - 2028).
+    
 💡 **[EN]** **Interests:** Data Engineering and Python automation. Developing academic and personal projects focused on **data, automation, and database-integrated applications**.  
-    **[PT]** **Interesses:** Engenharia de Dados e automação com Python. Desenvolvendo projetos acadêmicos e pessoais focados em **dados, automação e aplicações integradas a banco de dados**.
+
+   **[PT]** **Interesses:** Engenharia de Dados e automação com Python. Desenvolvendo projetos acadêmicos e pessoais focados em **dados, automação e aplicações integradas a banco de dados**.
 
 ---
 
@@ -11,10 +14,12 @@
 
 **[Crypto Sentinel](https://github.com/seu-usuario/Crypto_Sentinel)**
 - **[EN]** End-to-end Data Pipeline using Medallion Architecture to analyze BTC, ETH, and SOL trends with automated orchestration.
+  
 - **[PT]** Pipeline de Dados ponta a ponta usando Arquitetura de Medalhão para analisar tendências de BTC, ETH e SOL com orquestração automatizada.
 
 **[PoliArtGen](https://github.com/0SarahSperduti/PoliArtGen)**
 - **[EN]** AI Image Generation Web App. Group project integrating API + MongoDB + Front-end, developed in partnership with Colégio Poliedro.
+  
 - **[PT]** Aplicação Web de Geração de Imagens com IA. Projeto em grupo com integração de API + MongoDB + Front-end, desenvolvido em parceria com o Colégio Poliedro.
 
 ---
