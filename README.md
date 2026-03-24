@@ -22,6 +22,12 @@
   
 - **[PT]** Aplicação Web de Geração de Imagens com IA. Projeto em grupo com integração de API + MongoDB + Front-end, desenvolvido em parceria com o Colégio Poliedro.
 
+**[Freelance Payroll Automation](https://github.com/Lucas-QdD/freela-payroll-automation)**
+
+- **[EN]** Automated data pipeline that integrates Google Sheets API and Python to process freelancer payments, generating dynamic PDF reports with automated CI/CD via GitHub Actions.
+
+- **[PT]** Pipeline de dados automatizado que integra Google Sheets API e Python para processar pagamentos de freelancers, gerando relatórios dinâmicos em PDF com CI/CD automatizado via GitHub Actions.
+
 ---
 
 ## 🛠️ Tech Stack | Tecnologias
@@ -42,6 +48,7 @@
 - **BI & Ferramentas**:  
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 - **Versionamento**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
